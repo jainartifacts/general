@@ -1,6 +1,6 @@
 # Shri Samedh Sikhar Ji
 ## Awas Vavyastha - Contact List
-|#|Bhavan Name|Contact Number|
+|#|Bhavan Name (धर्मशाला) |Contact Number|
 |-|-|-|
 |1|Terah Panth Kothi (तेरह पंथ कोठी)|9534210555 / 9431532383|
 |2|Bis Panthi Kothi (बिस पंथी कोठी)|9608459308 / 9334385135|
