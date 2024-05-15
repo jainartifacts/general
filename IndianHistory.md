@@ -1,6 +1,6 @@
 ```mermaid
 timeline
-    title Importan years of Indian History
+    title Important years of Indian History
     2500 - 1500 BC : Sindhu Ghati Sabhyata Kaal
     563 BC : Birth of Gautam Buddha
     540 BC : Birth of Lord Mahavira
